@@ -1,11 +1,13 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package temporal;
 
 /**
- * Nombre de la clase: Temporal
- * Fecha: 12/04/2018
- * Version: 1.0
- * CopyRight: Rodrigo Gomez
- * @author Rodrigo Gomez
+ *
+ * @author carlitos
  */
 public class Temporal {
 
@@ -13,9 +15,7 @@ public class Temporal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        System.out.println("Esta es una prueba");
-        
+        // TODO code application logic here
     }
     
 }
