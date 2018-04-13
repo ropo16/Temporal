@@ -1,13 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package temporal;
 
 /**
- *
- * @author carlitos
+ * Nombre de la clase: Temporal
+ * Fecha: 12/04/2018
+ * Version: 1.0
+ * CopyRight: Rodrigo Gomez
+ * @author Rodrigo Gomez
  */
 public class Temporal {
 
